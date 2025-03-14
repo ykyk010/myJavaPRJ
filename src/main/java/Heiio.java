@@ -4,5 +4,7 @@ public class Heiio {
 
         System.out.println("Hello!! My First java Coding!!");
 
+        System.out.println("Edit java Coding!!");
+
     }
 }
