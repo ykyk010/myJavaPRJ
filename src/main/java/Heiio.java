@@ -6,5 +6,7 @@ public class Heiio {
 
         System.out.println("Edit java Coding!!");
 
+        System.out.println(eh.id);
+
     }
 }
